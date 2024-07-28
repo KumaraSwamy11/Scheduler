@@ -60,4 +60,4 @@ Scope: Focus on core features for scheduling and managing events. Advanced featu
 DeliverablesFrontend: A React application that meets the user interface requirements.Backend: A Node.js/Express server with a RESTful API for managing events.Database: A MongoDB database storing event data.Documentation: Basic documentation outlining how to set up and run the application.
 This expanded problem statement provides a comprehensive overview of the project requirements, ensuring that the development team has a clear understanding of the goals and expectations.
 
-Attach your Github repo link as a solution to this!
+Attach your Github repo link as a solution to this!!!
